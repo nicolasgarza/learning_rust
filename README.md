@@ -1,3 +1,4 @@
+```plaintext
 Progress: [------------------------------------------------------------] 0/96 (0.0 %)
 Progress: [>-----------------------------------------------------------] 1/96 (1.0 %)
 Progress: [#>----------------------------------------------------------] 2/96 (2.1 %)
@@ -119,3 +120,4 @@ Progress: [###########################################################>] 95/96 (
 We hope you enjoyed learning about the various aspects of Rust!
 If you noticed any issues, please don't hesitate to report them to our repo.
 You can also contribute your own exercises to help the greater community!
+```
